@@ -19,9 +19,9 @@ Contents
 .. toctree::
 
    zebrania
-   Goście
-   Nauczyciele
-   Grupy
-   Szkoły
+   [Goście][goscie]
+   nauczyciele
+   grupy
+   szkoly
    usage
    api
