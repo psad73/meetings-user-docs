@@ -2,10 +2,13 @@
 
 ## Informacje ogólne
 
-##Tworzenie nowego zebrania
+## Tworzenie nowego zebrania
 
 Informacje niezbędne do stworzenia nowego zebrania zgrupowane sa na czterech ekranach.
 Pierwszy ekran zawiera podstawowe informacje dotyczące zebrnia:
+```{image} ./img/meeting-edit-01-a.png
+:name: Informacje ogólne
+```
 ![meeting-edit-01-a.png](:/db445cec7e4544e4ae3e955d7fedc4b7)
 1. Nazwa zebrania [wymagane]- nazwa służaca głównie do łatwej identyfikacji zebrania w systemie
 2. Opis zebrania [opcjonalne] 
